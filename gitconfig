@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lilasviolettemarchand@gmail.com
+	name = Lilas Marchand
